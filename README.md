@@ -1,2 +1,2 @@
-# car-accidents-
-This project aims to use histirical data to explora car accidents.
+# car-accidents
+This project aims to use histirical data to explore car accidents.
